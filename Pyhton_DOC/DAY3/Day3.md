@@ -1,4 +1,4 @@
-# day3 ()
+# Day3 ()
 - Started with the revision of topics we had done on {Day2}
 - had a talk about how num as a variable is stored in symbol table and its memory location 
 - Symbols are nothing but identifiers and identifiers are nothing but the names we give to variables , functions ,  lists , etc
