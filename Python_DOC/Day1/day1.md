@@ -1,11 +1,11 @@
 # Day 1
 
-* Python going to be functinal programming language.
+* Python going to be functional programming language.
 * Going to use OOPs for scripting in Linux -> Abstraction, Encapsulation Basically, Reussability.
 * Modules. Using packages and modules, need to know about Modules.
 * Advance Features. How to use packages for REST API
     * Project must use REST API
-    * Focus on specifc projects that use packages for REST
+    * Focus on specific projects that use packages for REST
     * Flask is one of them.
 * Web Services, learn OWASP for Web Security.
 * Numpy, Pandas
@@ -13,11 +13,11 @@
 * Data Visualisation
     * matplotlib
 * Testing
-    * Selenium and data srapping. basically it would be used for researching the data.
+    * Selenium and data scrapping. basically it would be used for researching the data.
 
 ## Langauge Fundamentals
 
-1. How the language is used to communicate with the system (basically the CPU), if you remember the punched cards where there was use of punched card for input of codes and communication was really tough, then came assembly language, mnemonic language, having intructions in mnemonics (like ADD A B), converting instruction to binary. 
+1. How the language is used to communicate with the system (basically the CPU), if you remember the punched cards where there was use of punched card for input of codes and communication were really tough, then came assembly language, mnemonic language, having intructions in mnemonics (like ADD A B), converting instruction to binary. 
 2. The major problem was to reduce the instruction providing process, becaue Assembly language was Arch dependent. There are various archs, namely CISC, RISC, SPARC.
 3. Denis Ritchie and Ken Thompson wrote the first UNIX for Honeywell Corporation,basically, the usage of UNIX was so popular that is was used by most of the computer made by Honeywell Coorporation.
 4. If you created a script, say in C program, script.c, remember that .obj object file is created by the compiler(`gcc` compiler), this file containes the machine code for the source code you wrote. But you do need that compiler that understand that same architecture as that of system, therefore this .obj file is OS independent, but arch dependent.
