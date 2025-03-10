@@ -46,8 +46,8 @@ Hash Function - are one who decide the index in set function,  will always retur
         -Substraction operation()
         finding out un commonn values of the set 
         here s1 - s2 and s2 - s1 will not be same 
-    ```
->>> s1 = {[1,2,3], [1,2,3]}
+```
+s1 = {[1,2,3], [1,2,3]}
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 TypeError: unhashable type: 'list'>>> s1 = {[1,2,3], [1,2,3]}
