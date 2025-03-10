@@ -46,15 +46,15 @@ Hash Function - are one who decide the index in set function,  will always retur
         -Substraction operation()
         finding out un commonn values of the set 
         here s1 - s2 and s2 - s1 will not be same 
-```
-s1 = {[1,2,3], [1,2,3]}
-Traceback (most recent call last):
-  File "<stdin>", line 1, in <module>
-TypeError: unhashable type: 'list'>>> s1 = {[1,2,3], [1,2,3]}
-Traceback (most recent call last):
-  File "<stdin>", line 1, in <module>
-TypeError: unhashable type: 'list'
-```
+        ```
+        s1 = {[1,2,3], [1,2,3]}
+        Traceback (most recent call last):
+          File "<stdin>", line 1, in <module>
+        TypeError: unhashable type: 'list'>>> s1 = {[1,2,3], [1,2,3]}
+        Traceback (most recent call last):
+          File "<stdin>", line 1, in <module>
+        TypeError: unhashable type: 'list'
+        ```
 * It will give you an unhasable type. Only mutable objects can’t be part of sets, like lists, because hashable type for different types is different, but it can’t do the different datatype hashing at the same time.  
 * Sets can be also immutable, called frozen sets, using `frozenset()` function, then any other element can’t be edited or added any other.
 
