@@ -153,7 +153,7 @@ Now calculate for the following considering **W.X.Y.0/29**:
 - LAST HOST ON 20TH SUB
 - LAST HOST ON LAST SUB
 
-*How we solve this?* Refer to [subnet calculation](../fundamentals-again/subnet-calculation.md) to learn more, however if you see, every octet varies from 0-255. Thus, this means that every bit that subnet occupies, say **/25, /26, /27, /28, /29, /30, /31, /32**, has fixed amount of subnets and host that lies within each subnet. Each subnet will have a certain reach, like **/24** will have one subnet **W.X.Y.128/25**, and it will have about 2⁷-2=**126** hosts.
+*How we solve this?* Refer to [subnet calculation](../More Basics/subnet-calculation.md) to learn more, however if you see, every octet varies from 0-255. Thus, this means that every bit that subnet occupies, say **/25, /26, /27, /28, /29, /30, /31, /32**, has fixed amount of subnets and host that lies within each subnet. Each subnet will have a certain reach, like **/24** will have one subnet **W.X.Y.128/25**, and it will have about 2⁷-2=**126** hosts.
 
 | `/25`  | `/26`  | `/27`  | `/28`  | `/29`  | `/30`  | `/31`  | `/32`  |
 |--------|--------|--------|--------|--------|--------|--------|--------|
