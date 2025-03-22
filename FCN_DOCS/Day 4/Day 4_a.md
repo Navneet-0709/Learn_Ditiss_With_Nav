@@ -79,18 +79,18 @@ A protocol number is a numerical identifier assigned to each protocol in the net
 | GRE      | 47     | Generic Routing Encapsulation, used for tunneling |
 | ESP      | 50     | Encapsulating Security Payload,
 
-
+```
 # Layers And Numbers :- 
 +------------------+-------------------------+------------------------+
 | **Layer**        | **Identifier Used**      | **Example Values**     |
 +------------------+-------------------------+------------------------+
-| Application      | (No specific identifier) | (HTTP, FTP, DNS, etc.) |
-| Transport       | Port Number              | TCP: 80 (HTTP), UDP: 53 (DNS) |
-| Network         | Protocol Number, IP Address | ICMP: 1, TCP: 6, UDP: 17 | 
-|                |                          | IP: 192.168.1.1, IPv6: 2001:db8::1 |
-| Data Link       | MAC Address              | 00:1A:2B:3C:4D:5E      |
+| Application      | (No specific identifier)    | (HTTP, FTP, DNS, etc.) |
+| Transport        | Port Number                 | TCP: 80 (HTTP), UDP: 53 (DNS) |
+| Network          | Protocol Number, IP Address | ICMP: 1, TCP: 6, UDP: 17 | 
+|                  |                             | IP: 192.168.1.1, IPv6: 2001:db8::1 |
+| Data Link        | MAC Address                 | 00:1A:2B:3C:4D:5E      |
 +------------------+-------------------------+------------------------+
-
+```
 # Session Layer
 
 The Session Layer is the fifth layer in the OSI (Open Systems Interconnection) model. It is responsible for establishing, managing, and terminating sessions between two communicating devices. Key functions of the Session Layer include:
