@@ -298,7 +298,15 @@ COnfigure the RIGRP routing using `router eigrp` *process-id* and then `network`
 -  It is also called **Hybrid Routing Protocol**
 
 One feature is called **Auto Summarization**. It 
-
+``` 
+      //\\            //      //\\      \\            //          
+     //  \\          //      //  \\      \\          //                            
+    //    \\        //      //    \\      \\        //                         
+   //      \\      //      //      \\      \\      //                   
+  //        \\    //      //        \\      \\    //                     
+ //          \\  //      //          \\      \\  //                    
+//            \\//      //            \\      \\//              
+```
 
 
 
