@@ -431,3 +431,14 @@ Handles the physical transmission of data between devices and detects errors in 
     ```
 
     Both Ping and Traceroute are essential tools for network troubleshooting and performance analysis, providing insights into connectivity and routing issues.
+
+
+``` 
+      //\\            //      //\\      \\            //          
+     //  \\          //      //  \\      \\          //                            
+    //    \\        //      //    \\      \\        //                         
+   //      \\      //      //      \\      \\      //                   
+  //        \\    //      //        \\      \\    //                     
+ //          \\  //      //          \\      \\  //                    
+//            \\//      //            \\      \\//              
+```
