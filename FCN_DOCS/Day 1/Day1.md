@@ -101,11 +101,7 @@ So, that’s why there was set of rules, or say protocols that was developed by 
 * When a device wants to send data, it first listens to see if the network is busy. If the network is clear, it sends the data. 
 * However, if two devices sending data simultaneously, a **collision** occurs, and the data is scrambled. Each device then waits a random amount of time before trying again. This is managed by the **backoff algorithm**.
 
-Never a machine can send the data with 100Mbps, you’ll be getting the access of the machine thus , thus i t help in mutliaccess  of the system.
-
-if you have address like this, **01:2A:1B:67:22:AC**, as the first id called Organisation unique identier, meaning it sa called **Vendor Code**. 
-
-* Every machine has it ’s own backoff timer, and the NIC (unique identifier).
+* Every machine has it ’s own backoff timer, and the NIC (with unique identifier).
 * All the machines will back off, if there is coliison, they will anyway backoff. This is called **backoff alogithm**, every machine is suppose to wait till the **backoff timer**.
 * If the machines shares the same collision domain, then there will be **backoff timer** that will prevent the device from sending data, thus the device has to wait before the channel starts listening again.
 * So a machine has to wait for the random amount of time in order to send the data.
