@@ -73,8 +73,8 @@ Routers is very important, as if you have internet connection, this router give 
 
 |Classes    |First Octet    |Default Subnet Mask    |Use    |Property   |
 |-----------|---------------|-----------------------|-------|-----------|
-|Class A    |0 - 126        |255.0.0.0              |Used for large scale organisation|0xxxxxxx|
-|Class B    |127 - 191        |255.255.0.0              |Medium scale organisation|10xxxxxx|
+|Class A    |0 - 127        |255.0.0.0              |Used for large scale organisation|0xxxxxxx|
+|Class B    |128 - 191        |255.255.0.0              |Medium scale organisation|10xxxxxx|
 |Class C    |192 - 223        |255.255.255.0              |To be uses in small scale organisation|110xxxxx|
 |Class D    |224 - 239        |Multi-casting             |Reserved for multicastig|1110xxxx|
 |Class E    |240 - 255        |Experimental Classes            |Reserved for Experiments|1111xxxx|
