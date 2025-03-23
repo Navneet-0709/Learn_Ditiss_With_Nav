@@ -249,3 +249,12 @@ Now you need to tell what behaviour the router **A**, **B**, and **C** would hav
 
 Remember one of the `passive-interface` *interface* behaviour where if there is going to be no **rip** packets on one interface that doesn't mean that **router B** won't be able to recieve from **Router A**.
 
+``` 
+      //\\            //      //\\      \\            //          
+     //  \\          //      //  \\      \\          //                            
+    //    \\        //      //    \\      \\        //                         
+   //      \\      //      //      \\      \\      //                   
+  //        \\    //      //        \\      \\    //                     
+ //          \\  //      //          \\      \\  //                    
+//            \\//      //            \\      \\//              
+```
