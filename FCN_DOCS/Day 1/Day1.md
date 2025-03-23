@@ -138,7 +138,7 @@ Let’s see Unicaset and Braodcast:
 * The unicast works as if  two ends are to be communicated
 * Another sis BraodCast address, themmachine will see if the mac cddress it not changing, then it said be rereciveving the data.
 
-Once the machine that were communicating , the probability of remaining machine i the waiting state, that number increases, when there are more number of machine. If there are more mahcines, the more backoff timer, the more there will be more, so you can imaginetha tthe more machin will be ther, ther more ther will be wastage of speed, say if the speed is 100Mbps, then say if 100Mbps is wasted. 
+Once the machine that were communicating , the probability of remaining machine i the waiting state, that number increases, when there are more number of machines. If there are more mahcines, the more backoff timer, the more there will be more, so you can imagine the wastage of speed, say if the speed is 100Mbps, then say if 100Mbps is wasted. 
 In this case there is also a limit of getting redialed, that is avaliability of the media will be the problem, these two drawbacks of the using the ethernet. So it is important to note that the availability ofthe media doesn’t come to a limitation.
 
 * Electromagnetic Interference, this is what makes the changes to the data during the transmission of data. Because this strong magnetic fields changes the bits and bytes of the data, 1 may become 0, 0 may become 1. Same with RFI.
