@@ -1,6 +1,6 @@
 # ARP (Address Resolution Protocol)
 
-Let’s consider the Machine A and Machine B wants to communicate, question, how machine B knows that Machine B wants to communicate. It uses **ARP** protocol.
+Let’s consider the Machine A and Machine B wants to communicate, question, how machine A knows that Machine B wants to communicate. It uses **ARP** protocol.
 
 * The purpose of ARP is to learn the MAC address of the **Destination** machine. A will broadcast that he wants to communicate with the Machine B, the broadcast message carries `::FFFF`
 
