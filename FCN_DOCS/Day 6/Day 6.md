@@ -239,3 +239,15 @@ copy tftp startup-config
 
 ## Conclusion
 This guide covers essential Cisco commands and their explanations. Mastering these commands will help in managing Cisco devices efficiently.
+
+
+``` 
+      //\\            //      //\\      \\            //          
+     //  \\          //      //  \\      \\          //                            
+    //    \\        //      //    \\      \\        //                         
+   //      \\      //      //      \\      \\      //                   
+  //        \\    //      //        \\      \\    //                     
+ //          \\  //      //          \\      \\  //                    
+//            \\//      //            \\      \\//              
+```
+
