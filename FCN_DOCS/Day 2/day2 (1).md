@@ -82,7 +82,7 @@ Routers is very important, as if you have internet connection, this router give 
 <br>
 
 * Now there is 127.0.0.1, that is called localhost address that means initialising the own network, that is used in development of the softwares to loopback to your local system.
-* IANA, internet Association Numbers Association.
+* IANA, Internet Assigned Numbers Authority.
 
 Why TCP/IP only? Becuase of it’s address scheme. Becuase we are able to distinguish between the network and host as well. Say if we have a network of 172.16.1.0, representing out network, and then there is host. Host will be 172.16.1.1. These subnets can be easily manipulated as if you need more network you can choose to increase the networks and IP addresses within the Network. 
 
