@@ -123,5 +123,3 @@ Now let’s move further, calculate the subnet ID and ..
 Remember while calculating the Subnet ID and Broadcast ID, if you find that subnet mask is all ones, then don’t calculate the subnet id, because it id INVALID.
 
 Remember that once you write the IP address, it is necessary to check which class the IP address belongs to, accordingly you'll be required to assign the subnets.
-
-We also use something called UTP/STP.
